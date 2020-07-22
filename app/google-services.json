@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "263927576909",
+    "firebase_url": "https://dummyloginauth.firebaseio.com",
+    "project_id": "dummyloginauth",
+    "storage_bucket": "dummyloginauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263927576909:android:4be59edae785d3d20b9f04",
+        "android_client_info": {
+          "package_name": "com.example.dummyfbloginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263927576909-vkbts5sshfsq95ncr0ou0ncmlbbnmu64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5lKY8CG8f9mAfx4QMB3PpogsHYjv0MG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263927576909-vkbts5sshfsq95ncr0ou0ncmlbbnmu64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

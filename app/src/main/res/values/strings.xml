@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DummyFaceBook</string>
+    <string name="tc">"By registering, you agree to Facebook's" <u>Terms and Conditions</u></string>
+    <string name="lp">Already a user? <u>Click here to login</u></string>
+</resources>
